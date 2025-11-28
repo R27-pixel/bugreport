@@ -1,0 +1,4 @@
+/.next
+/prompt
+/node_modules
+package-lock.json
